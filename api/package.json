@@ -1,0 +1,14 @@
+{
+  "name": "resume-website-node",
+  "version": "1.0.0",
+  "description": "This is my personal website with custom CMS. It was originally built in 2015 and this version updates the API to use Node.js",
+  "main": "index.html",
+  "repository": "https://github.com/iCramer/resume-website-node.git",
+  "author": "Ian Cramer <iancramer55@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}
